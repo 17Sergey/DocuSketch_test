@@ -1,0 +1,8 @@
+.App {
+    /* SVH is not yet supported in FIrefox so let's add a back-up unit */
+    height: 100svh;
+    height: 100vh;
+
+    display: grid;
+    place-items: center;
+}

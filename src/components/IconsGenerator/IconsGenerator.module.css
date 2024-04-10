@@ -1,0 +1,28 @@
+.parent {
+    width: 50%;
+    max-width: 300px;
+
+    margin: 0 auto;
+    padding: 2em;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    border-radius: 1em;
+    box-shadow: 0em 0em 0.5em 0.25em rgba(0,0,0,.15)
+}
+
+.icon {
+    width: 3em;
+    height: 3em;
+}
+
+.btn {
+    margin-top: 1em;
+
+    padding: 0.25em 0.5em;
+    border-radius: 0.5em;
+    font-weight: bold;
+    border: 2px solid #eee; 
+}
