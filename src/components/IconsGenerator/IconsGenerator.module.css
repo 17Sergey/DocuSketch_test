@@ -13,9 +13,19 @@
     box-shadow: 0em 0em 0.5em 0.25em rgba(0,0,0,.15)
 }
 
+.iconWrapper {
+    width: 3em;
+    height: 3em;
+    text-align: center;
+}
+
 .icon {
     width: 3em;
     height: 3em;
+}
+
+.preloader {
+    transform: scale(2);
 }
 
 .btn {
